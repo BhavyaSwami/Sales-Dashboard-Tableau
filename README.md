@@ -26,5 +26,4 @@ Features:
 - Discount: Reduction applied to the original product price during the sale.<br>
 - Profit: Financial gain or loss associated with each sales transaction.<br>
 </ul>
-![Screenshot (145)](https://github.com/BhavyaSwami/Sales-Dashboard-Tableau/assets/99551820/41a8854c-a2f9-474d-8f99-9fadcd19092d)
 
